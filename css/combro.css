@@ -125,7 +125,7 @@ body {
 }
 
 .play-pause i {
-    color: rgba(221,81,16,1)!important;
+    color: rgb(0,0,255)!important;
 }
 
 .volume-icon {
@@ -301,7 +301,7 @@ input[type=range]::-ms-thumb {
     text-transform: uppercase;
     margin-bottom: -5px;
     color: white;
-	text-shadow: 2px 2px #303030;
+    text-shadow: 2px 2px #303030;
 }
 
 @media(max-width: 370px) {
